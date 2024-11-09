@@ -1,0 +1,1 @@
+# Yangiliklarni api orqali olish

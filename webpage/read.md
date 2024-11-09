@@ -1,0 +1,1 @@
+# Yangiliklarni web sahifasidan olish
